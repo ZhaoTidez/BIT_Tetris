@@ -1,5 +1,5 @@
 # 北理工方块 - BIT_Tetris 
-（本作品已经同步发布至https://github.com/ZhaoTidez/BIT_Tetris/tree/main，为本人制作并上传）
+（本作品已经同步提交为学校十行代码比赛，为本人制作并上传）
 
 ## 游戏简介
 北理工方块是一款基于Python和Pygame开发的俄罗斯方块游戏，具有经典玩法、北理工定制界面和音效和特殊技能。
